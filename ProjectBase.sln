@@ -49,6 +49,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProjectBase.MobileSite", "P
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectBase.Infrastructure", "ProjectBase.Infrastructure\ProjectBase.Infrastructure.csproj", "{6E481F62-55F0-43EE-AA4B-19E0FF5B2C98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{DF11118B-CE43-4BD8-97A3-A43DF8C562C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF11118B-CE43-4BD8-97A3-A43DF8C562C6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{DF11118B-CE43-4BD8-97A3-A43DF8C562C6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6E481F62-55F0-43EE-AA4B-19E0FF5B2C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E481F62-55F0-43EE-AA4B-19E0FF5B2C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E481F62-55F0-43EE-AA4B-19E0FF5B2C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E481F62-55F0-43EE-AA4B-19E0FF5B2C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
